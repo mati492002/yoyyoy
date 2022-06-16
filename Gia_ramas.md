@@ -8,10 +8,10 @@
 ## subis los cambios
     git add .
 ## creas un commit
-    git commi -m "nombre"
+    git commit -m "nombre"
 ## subir al repositorio
     git push origin nombre-de-la-rama
 ## moverse ala rama master
-    git swith master
+    git switch master
 ## traer los cambios de la rama que queremos
     git merge nombre-de-la-rama
