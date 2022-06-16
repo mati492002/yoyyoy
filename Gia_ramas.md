@@ -8,6 +8,6 @@
 ## subis los cambios
     git add .
 ## creas un commit
-git commi -m "nombre"
+    git commi -m "nombre"
 ## subir al repositorio
-git push origin nombre-de-la-rama
+    git push origin nombre-de-la-rama
